@@ -3,3 +3,5 @@ Hello world
 Let us edit this test text file
 
 This is done in test, and should only exist in test
+
+This line should be deleted after commit
